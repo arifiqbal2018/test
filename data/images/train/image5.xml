@@ -1,0 +1,26 @@
+<annotation>
+	<folder>meter</folder>
+	<filename>image5.jpg</filename>
+	<path>/home/arif/Desktop/anshkumar/meter/image5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ssgc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>125</ymin>
+			<xmax>402</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>
